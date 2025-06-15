@@ -3,12 +3,6 @@
 
 To analyze onboarding and retention performance for a specific user cohort using **Amplitude**. The project focuses on visualizing onboarding funnel steps, time-to-conversion, user activity trends, and retention behavior segmented by platform (iOS & Android).
 
-## 🧪 Cohort Definition
-
-- **Country:** United States  
-- **Platform:** iOS or Android  
-- **Cohort Rule:** Users who performed the `Welcome` event for the **first time in June 2023**  
-- Historical count used to detect first-time actions.
 
 ## 📊 Dashboards & Visualizations
 
