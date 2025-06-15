@@ -1,4 +1,4 @@
-![12b6c694-5e80-4829-8528-06bb139a34b8Amplitude_xd6dev_Revize (1)](https://github.com/user-attachments/assets/e7ef8bc3-e939-4777-8aa4-732ab07428f9)# Amplitude-Cohort-Based-Onboarding-Funnel-Dashboard
+# Amplitude-Cohort-Based-Onboarding-Funnel-Dashboard
 ## 🎯 Goal
 
 To analyze onboarding and retention performance for a specific user cohort using **Amplitude**. The project focuses on visualizing onboarding funnel steps, time-to-conversion, user activity trends, and retention behavior segmented by platform (iOS & Android).
@@ -35,4 +35,4 @@ Based on the defined cohort, the following dashboards were created using **Ampli
 - **Platform Segmentation**
 - **Data Storytelling & Dashboard Design**
 
-  ![Uploading 12b6c694-5e80-4829-8528-06bb139a34b8Amplitude_xd6dev_Revize (1).png…]()
+![12b6c694-5e80-4829-8528-06bb139a34b8Amplitude_xd6dev_Revize (1)](https://github.com/user-attachments/assets/e7ef8bc3-e939-4777-8aa4-732ab07428f9)
